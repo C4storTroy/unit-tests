@@ -1,9 +1,9 @@
 package nz.co.lucio.auction.test;
 
-import nz.co.lucio.auction.dominio.Auction;
-import nz.co.lucio.auction.dominio.Bid;
-import nz.co.lucio.auction.dominio.User;
-import nz.co.lucio.auction.servico.Valuer;
+import nz.co.lucio.auction.domain.Auction;
+import nz.co.lucio.auction.domain.Bid;
+import nz.co.lucio.auction.domain.User;
+import nz.co.lucio.auction.service.Valuer;
 
 import org.junit.Assert;
 import org.junit.Test;
